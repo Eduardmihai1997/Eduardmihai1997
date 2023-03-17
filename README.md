@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1>Hi, I'm Eduard! </h1>
+<h2>👨‍💻 CyberSecurity Projects:</h2>
 
-<!--
-**Eduardmihai1997/Eduardmihai1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b>SIEM-Azure Sentinel Map with Live Cyber Attacks! </b>
+  -  Used custom PowerShell script to extract metadata from Windows Event Viewer to be forwarded to third party API in order to derive geolocation data 
+  -  Configured Azure Sentinel (Microsoft's cloud SIEM) workbook to display global attack data (RDP brute force) on world map according to physical location and magnitude of attacks.
+  
+- <b>Active Directory-Home Lab Running Active Directory/Add Users with PowerShell</b>
+  - Active Directory Administration on Server 2019:
+  - PowerShell automation to provision, maintaining, and deprovisioning user accounts
 
-Here are some ideas to get you started:
+- <b>Vulnerability Management with Nessus</b>
+  - Installed and configured Nessus Essentials to perform credentialed vulnerability scans against Windows 10 Hosts
+  -	Implemented Vulnerability Management Function on sandbox networks:
+  - Discover, Prioritize, Assess, Report, Remediate, Verify
+  - Conducted vulnerability assessments with Nessus; remediated vulnerabilities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🤳 Connect with me:</h2>
+[linkedin]:/https://www.linkedin.com/in/petrescu-eduard-mihai-12aab020b/r
+
+
