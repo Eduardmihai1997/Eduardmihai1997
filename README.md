@@ -1,5 +1,5 @@
 <h1>Hi, I'm Eduard! </h1>
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+<h2>👨‍💻 Software Development projects:</h2>
 
 - <b>Book Store website  </b>
   - Book Land is a web application that allows users to search for books using the Google Books API. 
