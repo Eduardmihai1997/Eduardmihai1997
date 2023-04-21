@@ -12,7 +12,7 @@
 - <b>Steganography application in C#</b>
   - A WPF application that enables users to hide a message within an image using steganography. Users can select an image, input a message, and then encode the message into the image. 
 
- - The modified image can be saved, preserving the hidden message. The application also allows users to decode the message from the encoded image.
+  - The modified image can be saved, preserving the hidden message. The application also allows users to decode the message from the encoded image.
 
 
 
